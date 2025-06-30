@@ -95,5 +95,5 @@ Compile with:
 ```bash
 cc main.c -L. -lftprintf
 ```
-License
-This project is licensed under the MIT License(LICENSE).
+## License
+This project is licensed under the [MIT License](LICENSE).
